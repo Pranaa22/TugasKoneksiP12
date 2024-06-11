@@ -23,9 +23,14 @@ Pertemuan 12 Semester 2
 <img src="Koneksi Tabel.png" img>
 
 # 4. Buat repo di github dengan judul tugas koneksi
+<img src="Repo.png" img>
 
-# 5. Contoh -> https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
+# 5. Contoh
+->
+https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
 
-# 6. https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
+# 6. Contoh
+->
+https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
 
 # 7. Kumpulkan di ecampus waktu 1 minggu
