@@ -11,7 +11,10 @@ Pertemuan 12 Semester 2
 <img src="Tabel 1.png" img>
 <img src="Tabel 2.png" img>
 <img src="Tabel 3.png" img>
-# 2. Buat koneksi dengan php .
+
+# 2. Buat koneksi dengan php.
+<img src="index.png" img>
+<img src="koneksi.png" img>
 
 # 3. Tampilkan data tabelnya masing2.
 <img src="Agen Tiket Bus Nyaman 1.png" img>
