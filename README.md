@@ -20,6 +20,7 @@ Pertemuan 12 Semester 2
 <img src="Agen Tiket Bus Nyaman 1.png" img>
 <img src="Agen Tiket Bus Nyaman 2.png" img>
 <img src="Agen Tiket Bus Nyaman 3.png" img>
+<img src="Koneksi Tabel.png" img>
 
 # 4. Buat repo di github dengan judul tugas koneksi
 
