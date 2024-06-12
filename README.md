@@ -1,6 +1,6 @@
 # Authors
 Pranaja Widyadhana Wardana <br>
-Telnik Informatika 23.A2 <br>
+Teknik Informatika 23.A2 <br>
 Universitas Pelita Bangsa
 
 # Tugas Koneksi Mysql
