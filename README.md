@@ -33,4 +33,4 @@ https://github.com/codeaflaha/Sistem-Basis-Data-19.B1
 ->
 https://github.com/wahyudiprabowo311910218/tugas-8-SBD-19.B1
 
-# 7. Kumpulkan di ecampus waktu : Jum'at - 14 - Juni - 2024
+# 7. Kumpulkan di ecampus waktu : Jum'at - 14 Juni - 2024
